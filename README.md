@@ -1,16 +1,12 @@
-## Hi there 👋
+## Oiie! Eu sou Maria Clara Assis!
 
-<!--
-**MariaAssis21/MariaAssis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou fazendo curso de desenvolvimento de sistemas
+- 🌱 Estudando Python
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/MariaAssis21">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MariaAssis21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAssis21&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
