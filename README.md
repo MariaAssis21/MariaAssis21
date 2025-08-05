@@ -1,8 +1,8 @@
-## Oiie! Eu sou Maria Clara Assis!
+## Olá! Sou Maria Clara!
 
-- 🔭 Fazendo curso de Desenvolvimento de Sistemas
-- 📚 Estudando Python
-- 😄 Pronouns: ela/dela
+- 🔭 Curso de Desenvolvimento de Sistemas
+- 📚 Estudando Python e Html
+- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/MariaAssis21">
